@@ -18356,7 +18356,7 @@ DIN A3, landscape with location and doc. field</description>
 <wire x1="350.52" y1="134.62" x2="350.52" y2="187.96" width="0.1524" layer="97"/>
 <wire x1="350.52" y1="187.96" x2="220.98" y2="187.96" width="0.1524" layer="97"/>
 <text x="289.56" y="17.78" size="3.81" layer="94">Dashboard Controller</text>
-<text x="304.8" y="7.62" size="3.81" layer="94">v0.9-dev</text>
+<text x="304.8" y="7.62" size="3.81" layer="94">v0.9</text>
 <text x="345.44" y="20.32" size="2.54" layer="94">EPSA saison 2019</text>
 <text x="345.44" y="15.24" size="2.54" layer="94">OPTIMUS v1.0</text>
 <text x="345.44" y="10.16" size="2.54" layer="94">Bob Aubouin (BAT)</text>
