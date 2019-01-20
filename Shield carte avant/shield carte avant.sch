@@ -18960,9 +18960,9 @@ DIN A3, landscape with location and doc. field</description>
 <label x="233.68" y="86.36" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<wire x1="68.58" y1="147.32" x2="55.88" y2="147.32" width="0.1524" layer="91"/>
-<label x="55.88" y="147.32" size="1.778" layer="95" rot="R180" xref="yes"/>
-<pinref part="J3" gate="-1" pin="S"/>
+<wire x1="68.58" y1="137.16" x2="55.88" y2="137.16" width="0.1524" layer="91"/>
+<label x="55.88" y="137.16" size="1.778" layer="95" rot="R180" xref="yes"/>
+<pinref part="J3" gate="-3" pin="S"/>
 </segment>
 </net>
 <net name="NEUTRE" class="0">
@@ -19028,9 +19028,9 @@ DIN A3, landscape with location and doc. field</description>
 <wire x1="233.68" y1="81.28" x2="251.46" y2="81.28" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<wire x1="68.58" y1="137.16" x2="55.88" y2="137.16" width="0.1524" layer="91"/>
-<label x="55.88" y="137.16" size="1.778" layer="95" rot="R180" xref="yes"/>
-<pinref part="J3" gate="-3" pin="S"/>
+<wire x1="68.58" y1="142.24" x2="55.88" y2="142.24" width="0.1524" layer="91"/>
+<label x="55.88" y="142.24" size="1.778" layer="95" rot="R180" xref="yes"/>
+<pinref part="J3" gate="-2" pin="S"/>
 </segment>
 </net>
 <net name="SDA_SPI" class="0">
@@ -19040,9 +19040,9 @@ DIN A3, landscape with location and doc. field</description>
 <label x="246.38" y="83.82" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<wire x1="68.58" y1="142.24" x2="55.88" y2="142.24" width="0.1524" layer="91"/>
-<label x="55.88" y="142.24" size="1.778" layer="95" rot="R180" xref="yes"/>
-<pinref part="J3" gate="-2" pin="S"/>
+<wire x1="68.58" y1="147.32" x2="55.88" y2="147.32" width="0.1524" layer="91"/>
+<label x="55.88" y="147.32" size="1.778" layer="95" rot="R180" xref="yes"/>
+<pinref part="J3" gate="-1" pin="S"/>
 </segment>
 </net>
 <net name="LAUNCH_STATE" class="0">
